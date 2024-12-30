@@ -7,7 +7,13 @@
 - [Data Cleaning in Excel](#data-cleaning-in-excel)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Sales Analysis using excel](#sales-analysis-using-excel)
-- 
+- [Dashboard](#dashboard)
+- [Findings](#findings)
+- [Recommendation](#recommendation)
+- [Limitation](#limitation)
+
+
+
 Data source
 ### Project Overview
 The executive team at the bicycle retail company seeks a comprehensive Sales Dashboard to analyze sales activities from 2016 to 2018. This project aims to provide actionable insights into sales trends, revenue distribution, and key performance indicators across regions, stores, product categories, and brands. The dashboard will empower executives to make informed, data-driven decisions to drive business growth.
@@ -60,6 +66,10 @@ I have created several pivot tables and pivot charts in Excel to analyze revenue
 - Revenue per Customer: Ranks customers based on their total revenue contribution, helping identify top customers and high-value accounts.
 - Revenue per Sales Rep: Compares the performance of sales representatives, showing their impact on revenue generation.
 These charts help to break down revenue data into actionable insights and support decision-making across different levels of the business.
+### Dashboard
+### Findings
+### Recommendation
+### Limitation
 
 
 
